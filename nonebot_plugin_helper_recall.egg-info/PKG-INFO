@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: nonebot-plugin-helper-recall
-Version: 0.1.0
+Version: 0.1.1
 Summary: 帮助普通群员撤回自己超时无法撤回的消息
 Author-email: Wojusensei <3442006415@qq.com>
 License: MIT
@@ -30,6 +30,7 @@ Requires-Dist: nonebot-plugin-localstore>=0.5.0
 ```bash
 nb plugin install nonebot-plugin-helper-recall
 pip install nonebot-plugin-helper-recall
+```
 
 ## 使用
 

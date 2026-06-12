@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nonebot-plugin-helper-recall"
-version = "0.1.0"
+version = "0.1.1"
 description = "帮助普通群员撤回自己超时无法撤回的消息"
 authors = [{name = "Wojusensei", email = "3442006415@qq.com"}]
 readme = "README.md"
