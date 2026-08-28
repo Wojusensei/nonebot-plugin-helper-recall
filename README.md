@@ -45,8 +45,6 @@ pip install nonebot-plugin-helper-recall
 - **修复**：私聊使用 `/撤回` 无响应（现提示仅支持群聊）
 - **修复**：移除两个从未使用的依赖（nonebot-plugin-alconna、nonebot-plugin-localstore），
   安装体积大幅减小
-- `requires-python` 提升至 3.10；补充 LICENSE 文件；
-  移除误提交的 egg-info；新增测试套件（nonebug + pytest）
 
 ## 开发
 
